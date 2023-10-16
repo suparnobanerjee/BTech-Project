@@ -1,5 +1,5 @@
 
-## BTech Project
+# BTech Project
 
 - **Title :** Characterization and classification of stress using PPG Signal guided by GSR
 
